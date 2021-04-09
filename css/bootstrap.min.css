@@ -122,6 +122,54 @@ col-md-6 {
 
 .zapatillas{
     position: absolute;
-    width: 20%;
+    width: 50%;
+}
+
+.pngegg{
+    position: absolute;
+    right: 10%;
+    left: 32%;
+    top: 14%;
+}
+
+.name {
+    margin: 0;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 10px;
+    height: 70px;
+    overflow: hidden;
+    color: #040505;
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.product img{
+    width: 320px;
+}
+.product h3{
+    font-size: 1.7rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.card{
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
