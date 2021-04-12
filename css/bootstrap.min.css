@@ -70,7 +70,7 @@
 
 .btn-outline-light {
     color: #f8f9fa;
-    border-color: #f8f9fa;
+   
 }
 
 .btn-social {
@@ -174,9 +174,29 @@ col-md-6 {
 .titulo{
     font-family: 'Times New Roman', Times, serif;
     text-decoration: overline;
+    text-shadow: 2px 2px 5px ;
 }
 
 .nombres{
     width: 200%;
+    position: absolute;
+    top: 335%;
+
 }
+
+.info{
+position: absolute;
+top: 325%;
+
+}
+
+.al{
+    width: 100%;
+}
+
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
 
