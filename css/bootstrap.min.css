@@ -199,4 +199,109 @@ top: 325%;
     
 }
 
+.negro{
+    position: absolute;
+    color: var(--red);
+    top: -1600%;
+    right: 37%;
+   
+}
+
+.negro2{
+    position: absolute;
+    color: var(--red);
+    top: -1450%;
+    right: 10%;
+}
+
+.negro3{
+    position: absolute;
+    color: var(--red);
+    top: -270%;
+    right: 80%;
+}
+
+.negro4{
+    position: absolute;
+    color: var(--red);
+    top: -200%;
+    right: 80%;
+}
+
+.negro5{
+    position: absolute;
+    color: var(--red);
+    top: -130%;
+    right: 80%;
+}
+
+.negro6{
+    position: absolute;
+    color: var(--red);
+    top: -60%;
+    right: 80%;
+}
+.mision{
+    position: absolute;
+    color: var(--red);
+    top: -1000%;
+    right: 10%;
+}
+.tamano{
+ max-width: 100%;
+ width: 70%;
+}
+
+
+
+
+.tamanoimg{
+    width: 25%;
+    height: 25%;
+}
+
+.posicion{
+    position: absolute;
+    top: 80%;
+}   
+
+.final2{
+    background-color: #040505;
+    height: 50%;
+}
+.texto{
+   position: absolute;
+   right: 18%;
+   top:143%; 
+}
+.texto2{
+    position: absolute;
+    height: 30%;
+    right: 45%;
+    top:133%; 
+    
+ }
+.centro{
+   position: absolute;
+   right: 38%;
+   top:10%;
+}
+.im{
+    position: absolute;
+    height:  110%;
+    
+}
+
+    
+.top{
+    position: absolute;
+    top:200%;
+}
+
+.color1{
+    background-color: #fff;
+}
+
+
+
 
